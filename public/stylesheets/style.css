@@ -1,0 +1,18 @@
+#home-page {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  min-height: 99vh;
+  background-color: lightblue;
+}
+
+#bio {
+  text-align: justify;
+  max-width: 600px;
+  margin: auto;
+}
+
+#meme{
+  background-image: url(https://i.imgur.com/5724Dz1.jpg);
+}
